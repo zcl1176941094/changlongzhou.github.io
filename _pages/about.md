@@ -7,4 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a postgraduate student enrolled in the School of Computer Science and Technology at Soochow University in 2023. My research topic is the combination of computer science and biochemistry. If it is related to my research, please feel free to contact me.
+I am a postgraduate student enrolled in the School of Computer Science and Technology at Soochow University in 2023. My research topic is the combination of computer science and biochemistry. If it is related to my research, please feel free to contact me. 
+Email: 20235227105@stu.suda.edu.cn
